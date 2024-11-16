@@ -14,7 +14,7 @@ A calculator to calculate your hourly wage based on your salary, holidays, work 
 ## Requirements
 
 - Python 3.x
-- Tkinter (to install with pip)
+- Tkinter : for Fedora (sudo dnf install python3-tkinter)
 
 ## Installation
 
