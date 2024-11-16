@@ -14,7 +14,7 @@ A calculator to calculate your hourly wage based on your salary, holidays, work 
 ## Requirements
 
 - Python 3.x
-- Tkinter (usually included with Python installations)
+- Tkinter (to install with pip)
 
 ## Installation
 
